@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "587860588274",
+    "project_id": "one-line-6dd84",
+    "storage_bucket": "one-line-6dd84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587860588274:android:33337e41780be4a3ee826b",
+        "android_client_info": {
+          "package_name": "com.playmania.oneline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587860588274-mr34eh4kdtnu08di9t5d7eb91lmsgdgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG0YVI5gKX2IVz9lq1ORMMiQxd8CHA3bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587860588274-mr34eh4kdtnu08di9t5d7eb91lmsgdgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587860588274:android:0f32d6dc10619d60ee826b",
+        "android_client_info": {
+          "package_name": "com.playmania.oneline.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587860588274-mr34eh4kdtnu08di9t5d7eb91lmsgdgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG0YVI5gKX2IVz9lq1ORMMiQxd8CHA3bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587860588274-mr34eh4kdtnu08di9t5d7eb91lmsgdgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
